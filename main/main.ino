@@ -1,4 +1,4 @@
-int relayPin = 13;
+int relayPin = 12;
 
 void setup() {
   // put your setup code here, to run once:
